@@ -1,4 +1,5 @@
 ### Hi there 👋
+### My name is Randy. Nice to see you.
 
 <!--
 **RandyChoi2023/RandyChoi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
